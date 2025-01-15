@@ -63,7 +63,7 @@ This repository is open for contributions from Turbin3 Builders Cohort members. 
 For questions or feedback, reach out via:
 
 - **Turbin3 Organization Slack**
-- **ImmortalSul's Email**: [your-email@example.com]
+- **ImmortalSul's Email**: [idofsulaiman@gmail.com]
 
 ---
 
