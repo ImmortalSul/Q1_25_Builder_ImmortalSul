@@ -17,7 +17,7 @@ This repository is organized as follows:
   Week 0 Pre Reqs
   
 - **Turbin3-SolanaStarter**
-  Week 1
+  Week 1 solana starter file
 
 ---
 
