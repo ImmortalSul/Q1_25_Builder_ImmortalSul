@@ -15,7 +15,8 @@ This repository is organized as follows:
 
 - **Turbin3MonoRepo**  
   Week 0 Pre Reqs
-
+-**Turbin3-SolanaStarter**
+  Week 1
 
 ---
 
