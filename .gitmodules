@@ -1,6 +1,3 @@
 [submodule "Tubrin3MonoRepo"]
 	path = Tubrin3MonoRepo
 	url = https://github.com/ImmortalSul/Turbin3MonoRepo.git
-[submodule "Turbin3-SolanaStarter"]
-	path = Turbin3-SolanaStarter
-	url = https://github.com/ImmortalSul/Turbin3-SolanaStarter.git
