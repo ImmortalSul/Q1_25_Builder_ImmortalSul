@@ -1,0 +1,27 @@
+[submodule "Turbin3-PreReqs"]
+	path = Turbin3-PreReqs
+	url = https://github.com/ImmortalSul/Turbin3PreReqs.git
+[submodule "Turbin3-SolanaStarter"]
+	path = Turbin3-SolanaStarter
+	url = https://github.com/ImmortalSul/Turbin3-SolanaStarter.git
+[submodule "Nft-Stacking"]
+	path = Nft-Stacking
+	url = https://github.com/ImmortalSul/Nft-Stacking.git
+[submodule "Nft-Marketplace"]
+	path = Nft-Marketplace
+	url = https://github.com/ImmortalSul/Nft-MarketPlace.git
+[submodule "Anchor-Escrow"]
+	path = Anchor-Escrow
+	url = https://github.com/ImmortalSul/Anchor-Escrow.git
+[submodule "Anchor-Vault"]
+	path = Anchor-Vault
+	url = https://github.com/ImmortalSul/Anchor-Vault.git
+[submodule "Dice-Game-Program"]
+	path = Dice-Game-Program
+	url = https://github.com/ImmortalSul/Dice-Game-Program.git
+[submodule "Anchor-Amm"]
+	path = Anchor-Amm
+	url = https://github.com/ImmortalSul/Anchor-Amm.git
+[submodule "Anchievemint"]
+	path = Anchievemint
+	url = https://github.com/ImmortalSul/Achievemint.git
