@@ -24,3 +24,6 @@
 	url = https://github.com/ImmortalSul/Anchor-Amm.git
 
 
+[submodule "Achievemint"]
+	path = Achievemint
+	url = https://github.com/ImmortalSul/Achievemint.git
